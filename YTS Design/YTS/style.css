@@ -1,0 +1,202 @@
+.navbar-desktop{
+  display: flex;
+}
+
+.nav-logo{
+  display: flex;
+  align-items: center;
+  
+}
+.nav-item{
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  padding-left: 15vw;
+ 
+}
+.Searchbar 
+{
+ 
+ width: 300px;
+ border: 1px solid rgb(245, 237, 237);
+ background-color: rgb(68, 68, 70);
+ border-radius: 30px;
+ padding: 8px;
+
+}
+#search{
+  background: transparent;
+  padding-left: 3vw;
+  color: rgb(230, 231, 233);
+  justify-content: center;
+}
+ul{
+  display: flex;
+ 
+}
+li{
+  display:flex;
+  padding: 0.2vw;
+}
+a{
+  display: flex;
+  text-decoration: none;
+  padding: 0.2vw;
+}
+.image{
+  display:flex;
+  box-sizing: border-box;
+  justify-content: space-around;
+  padding-top: 3vh;
+}
+#movie{
+  height: 300px;
+  width: 200px;
+  border:1px white solid;
+  
+ 
+}
+#heading{
+  display: flex;
+  color: white;
+  margin:0 2vw ;
+
+}
+body{
+  background-image: url("../YTS/background.png");
+}
+.nav-head1{
+  display:flex;
+  justify-content: center;
+  color: white;
+
+}
+.nav-head2{
+  display:flex;
+  justify-content: center;
+  color: white;
+  font-size: ;
+}
+.nav-head3{
+  display:flex;
+  justify-content: center;
+  color: white;
+}
+#title{
+  display: flex;
+  color: white;
+  justify-content: center;
+  
+}
+/* h1{
+   display:flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    font-size:2em;
+    margin-top: 10px;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 150px;
+    font-weight: bold;
+
+}
+h3{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    font-size:10;
+    margin-top: 10px;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 150px;
+    font-weight: normal;
+}
+h4{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    font-size :15px;
+    margin-top: 10px;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 150px;
+    font-weight: normal;
+}
+
+.navbar-desktop {
+    display: block;
+    top: 0;
+    padding-top: 8px;
+    height: 60px;
+    width: 100%;
+    position: fixed;
+    background: #1d1d1d;
+    color: #919191;
+    border-bottom: 1px solid #2f2f2f;
+    z-index: 2;
+  }
+  
+  .nav-logo {
+    margin-left: 5%;
+    float: left !important;
+    padding-top: 8px;
+  }
+  .nav-main-links {
+    float: right;
+    right: 5%;
+  }
+  .nav-main-links ul {
+    margin: 8px;
+    margin-bottom: 0;
+  }
+  
+  .nav-main-links ul li input {
+    padding-left: 30px;
+    position: relative;
+    border: 2px solid #919191;
+    width: 250px;
+    height: 30px;
+    outline: none;
+    color: #919191;
+    font-size: 0.85em;
+    font-weight: 700px;
+    background: #1d1d1d url(https://yts.am/assets/images/website/icon-search.svg)
+      no-repeat 9px;
+    border-radius: 20px;
+  }
+  
+  .nav-main-links li {
+    list-style-type: none;
+    display: inline;
+    margin-left: 32px;
+  }
+  
+  .nav-main-links li a {
+    text-decoration: none;
+    color: #919191;
+  }
+  
+  .navbar-desktop img {
+    vertical-align: middle;
+  }
+  .main {
+    margin-top: 10%;
+    margin-left: 28px;
+    margin-right: 28px;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  movie-card-link {
+  max-width: 220px;
+  display: inline-block;
+  border: 5px solid #fff;
+  border-radius: 4px;
+}
+.movie-card-link:hover {
+  border-color: green;
+}
+  
+   */
